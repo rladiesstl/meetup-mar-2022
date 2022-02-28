@@ -17,7 +17,7 @@ options(htmltools.dir.version = FALSE)
 
 <br>
 
-- Introduction slides can be accessed here: 
+- Introduction slides can be accessed here: https://rladiesstl.github.io/meetup-mar-2022/
 
 - Have R and RStudio installed on your computer
 
